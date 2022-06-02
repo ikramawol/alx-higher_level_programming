@@ -10,4 +10,3 @@ def fizzbuzz():
                 print("FizzBuzz", end=" ")
             else:
                 print(x,end=" ")
-
