@@ -1,0 +1,78 @@
+
+
+
+
+
+
+
+1b602652f6811b562a5broot@8bee6f86fe4c:/# 1b602652f6811b562a5b1b602652f6811b562a5b
+bash: 1b602652f6811b562a5b1b602652f6811b562a5b: command not found
+root@8bee6f86fe4c:/# cd alx-higher_level_programming/
+root@8bee6f86fe4c:/alx-higher_level_programming# mkdir 0x07-python-test_driven_development
+
+root@8bee6f86fe4c:/alx-higher_level_programming# cd 0x07-python-test_driven_development
+root@8bee6f86fe4c:/alx-higher_level_programming/0x07-python-test_driven_development# ls
+root@8bee6f86fe4c:/alx-higher_level_programming/0x07-python-test_driven_development# emacs
+ README.md
+ root@8bee6f86fe4c:/alx-higher_level_programming/0x07-python-test_driven_development# emacs
+  0-add_integer.py^C
+
+bash: macs: command not found
+root@8bee6f86fe4c:/alx-higher_level_programming/0x07-python-test_driven_development# emacs
+ 0-add_integer.py
+ root@8bee6f86fe4c:/alx-higher_level_programming/0x07-python-test_driven_development# emacs
+  2-matrix_divided.py
+  root@8bee6f86fe4c:/alx-higher_level_programming/0x07-python-test_driven_development# chmod
+   u+x 0-add_integer.py 2-matrix_divided.py
+   root@8bee6f86fe4c:/alx-higher_level_programming/0x07-python-test_driven_development# git a
+   dd .;git commit -m "test drive";git push
+   [master 208ee9b] test drive
+    3 files changed, 56 insertions(+)
+     create mode 100755 0x07-python-test_driven_development/0-add_integer.py
+      create mode 100755 0x07-python-test_driven_development/2-matrix_divided.py
+       create mode 100644 0x07-python-test_driven_development/README.md
+       Password for 'https://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@github.com':
+       Enumerating objects: 7, done.
+       Counting objects: 100% (7/7), done.
+       Delta compression using up to 2 threads
+       Compressing objects: 100% (6/6), done.
+       Writing objects: 100% (6/6), 1.25 KiB | 640.00 KiB/s, done.
+       Total 6 (delta 1), reused 0 (delta 0)
+       remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+       To https://github.com/ikramawol/alx-higher_level_programming.git
+          45282de..208ee9b  master -> master
+	  root@8bee6f86fe4c:/alx-higher_level_programming/0x07-python-test_driven_development# emacs
+	   3-say_my_name.py
+	   root@8bee6f86fe4c:/alx-higher_level_programming/0x07-python-test_driven_development# emacs
+	    4-print_square.py
+	    root@8bee6f86fe4c:/alx-higher_level_programming/0x07-python-test_driven_development# emacs
+	     5-text_indentation.py
+	     root@8bee6f86fe4c:/alx-higher_level_programming/0x07-python-test_driven_development# emacs
+	      6-max_integer.py
+	      root@8bee6f86fe4c:/alx-higher_level_programming/0x07-python-test_driven_development# emacs
+
+root@8bee6f86fe4c:/alx-higher_level_programming/0x07-python-test_driven_development# emacs
+ 100-matrix_mul.py
+ root@8bee6f86fe4c:/alx-higher_level_programming/0x07-python-test_driven_development# chmod
+  u+x 3-say_my_name.py 4-print_square.py 5-text_indentation.py 6-max_integer.py 100-matrix_
+  mul.py
+  root@8bee6f86fe4c:/alx-higher_level_programming/0x07-python-test_driven_development# git a
+  dd .;git commit -m "Test riven ";git push
+  [master 78bf3e6] Test riven
+   5 files changed, 136 insertions(+)
+    create mode 100755 0x07-python-test_driven_development/100-matrix_mul.py
+     create mode 100755 0x07-python-test_driven_development/3-say_my_name.py
+      create mode 100755 0x07-python-test_driven_development/4-print_square.py
+       create mode 100755 0x07-python-test_driven_development/5-text_indentation.py
+        create mode 100755 0x07-python-test_driven_development/6-max_integer.py
+	Password for 'https://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@github.com':
+	Enumerating objects: 10, done.
+	Counting objects: 100% (10/10), done.
+	Delta compression using up to 2 threads
+	Compressing objects: 100% (8/8), done.
+	Writing objects: 100% (8/8), 2.42 KiB | 2.42 MiB/s, done.
+	Total 8 (delta 1), reused 0 (delta 0)
+	remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+	To https://github.com/ikramawol/alx-higher_level_programming.git
+	   208ee9b..78bf3e6  master -> master
+	   root@8bee6f86fe4c:/alx-higher_level_programming/0x07-python-test_dri
